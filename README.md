@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman0905
+- 👋 Hi, I’m @Aman0905 - Upcomming SDE-trainee at Sopra Steria
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on designing web pages and frontend projects
